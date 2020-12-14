@@ -1,7 +1,7 @@
 # Tryhackme-BufferOverflow-prep
 
 # References
-<pre>
+
 https://bytesoverbombs.io/exploiting-a-64-bit-buffer-overflow-469e8b500f10
 https://www.abatchy.com/2017/05/jumping-to-shellcode.html
 http://www.voidcn.com/article/p-ulyzzbfx-z.html
@@ -11,7 +11,7 @@ https://github.com/justinsteven/dostackbufferoverflowgood
 https://github.com/V1n1v131r4/OSCP-Buffer-Overflow
 https://github.com/stephenbradshaw/vulnserver
 https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/
-</pre>
+
 # Mona Module
     https://github.com/corelan/mona | 
     
