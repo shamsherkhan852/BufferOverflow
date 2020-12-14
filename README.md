@@ -1,5 +1,5 @@
 # Tryhackme-BufferOverflow-prep
-
+These Application files are taken from tryhackme platform for practise Buffer overflow
 # References
 * https://bytesoverbombs.io/exploiting-a-64-bit-buffer-overflow-469e8b500f10
 * https://www.abatchy.com/2017/05/jumping-to-shellcode.html
@@ -13,6 +13,4 @@
 
 # Mona Module
 * https://github.com/corelan/mona
-    
-# The manual can be found here: 
 * https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
