@@ -1,6 +1,6 @@
 # Tryhackme-BufferOverflow-prep
 
-References
+# References
 https://bytesoverbombs.io/exploiting-a-64-bit-buffer-overflow-469e8b500f10
 https://www.abatchy.com/2017/05/jumping-to-shellcode.html
 http://www.voidcn.com/article/p-ulyzzbfx-z.html
@@ -11,7 +11,7 @@ https://github.com/V1n1v131r4/OSCP-Buffer-Overflow
 https://github.com/stephenbradshaw/vulnserver
 https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/
 
-Mona Module
+# Mona Module
     https://github.com/corelan/mona | 
     
-The manual can be found here: https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
+# The manual can be found here: https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
