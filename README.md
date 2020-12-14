@@ -12,4 +12,6 @@ References
     https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/
 
 Mona Module
-    https://github.com/corelan/mona | The manual can be found here: https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
+    https://github.com/corelan/mona | 
+    
+The manual can be found here: https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
